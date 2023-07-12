@@ -39,7 +39,8 @@ _Visualize the route nodes._
 
 I mapped my current indoor environment and asked the algorithm to give me the shortest distance from my seat to the tap on the balcony. And here is the output. Black cells are the walls and white cells are the free spaces. The green cell is where I'm seated while the yellow cell is the tap's cell. The grey cells represent the route.
 
-![dijkstra](https://github.com/chumoyot/Robotics-Computational-Motion-Planning/assets/135506318/ec6a9e7f-eea1-4633-94c8-6d7ee2b99426)
+![dijkstra](https://github.com/chumoyot/Robotics-Computational-Motion-Planning/assets/135506318/30f80b7b-2867-4dab-8532-465817ce096f)
+
 
 
 
